@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 
-Passionate Fullstack Developer, started my jourley from Jan 2018 in IT industry. I have learnt and worked on many cutting edge technologies likes Node.js, Angular 6+, Express.js, Go, HTML5, CSS3, Bootstrap, Tailwind CSS, AWS Serverless Framework.
+Passionate Fullstack Developer, started my career from Jan 2018 in IT industry. I have learnt and worked on many cutting edge technologies likes Node.js, Angular 6+, Express.js, Go, HTML5, CSS3, Bootstrap, Tailwind CSS, AWS Serverless Framework.
 
 ### 🎖 Achievements
 
